@@ -1,0 +1,4 @@
+C:\Application\MSDVCS\DOPS\DOPS\bin\DOPS.dll
+C:\Application\MSDVCS\DOPS\DOPS\bin\DOPS.pdb
+C:\Application\MSDVCS\DOPS\DOPS\obj\Debug\DOPS.dll
+C:\Application\MSDVCS\DOPS\DOPS\obj\Debug\DOPS.pdb
